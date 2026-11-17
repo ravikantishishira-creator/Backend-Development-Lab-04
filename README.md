@@ -5,7 +5,7 @@
 
 - **Name:** Shishira Ravikanti
 - **Registration Number:** 252U1R1218
-- **Section:** [Enter your section]
+- **Section:** CSE 2E 211
 - **Course:** Backend Development Fundamentals
 - **Year:** II
 - **Term:** II
