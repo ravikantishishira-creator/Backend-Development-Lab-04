@@ -9,7 +9,7 @@
 - **Course:** Backend Development Fundamentals
 - **Year:** II
 - **Term:** II
-- **Faculty:** Joel Prashanth D
+- **Faculty:** Yugandhar Gurjalwar
 
 ## Live Link
 
